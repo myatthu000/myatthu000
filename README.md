@@ -2,7 +2,9 @@
 
 ###
 
-<h6 align="left">https://my-athureinhan-dev.vercel.app</h6>
+<h6 align="left">
+  <a href="https://my-athureinhan-dev.vercel.app">Myat Thurein Han</a>
+</h6>
 
 ###
 
